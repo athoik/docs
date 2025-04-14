@@ -1169,7 +1169,7 @@ When enabling `GOOGLE_DRIVE_INTEGRATION`, ensure that you have configured `GOOGL
 - Type: `str`
 - Description: Sets the URI for Qdrant.
 
-### `QDRANT_ON_DISK`
+#### `QDRANT_ON_DISK`
 
 - Type: `bool`
 - Default: `False`
